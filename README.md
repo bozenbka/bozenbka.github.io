@@ -11,7 +11,7 @@ markdown
 Содержит портфолио, информацию об услугах и контакты.
 
  Ссылки
-- GitHub репозиторий: https://github.com/bozenbka/konkyrs
+- GitHub репозиторий: https://github.com/bozenbka/bozenbka.github.io
 - GitHub Pages: https://bozenbka.github.io
 
  Используемые технологии
