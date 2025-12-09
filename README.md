@@ -12,7 +12,7 @@ markdown
 
  Ссылки
 - GitHub репозиторий: https://github.com/bozenbka/konkyrs
-- GitHub Pages: https://bozenbka.github.io/konkyrs
+- GitHub Pages: https://bozenbka.github.io
 
  Используемые технологии
 - HTML5
